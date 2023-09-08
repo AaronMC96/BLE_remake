@@ -1,0 +1,4 @@
+Added Component: Designator=R2(Resistor_0402)
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=BLE_Schematic Member=Component R2 Resistor

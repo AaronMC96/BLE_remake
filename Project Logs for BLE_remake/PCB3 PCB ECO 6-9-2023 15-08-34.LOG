@@ -1,0 +1,7 @@
+Added Component: Designator=CONN1(1x5x2.54 Pin Header TH V)
+Added Pin To Net: NetName=SWDIO Pin=CONN1-1
+Added Pin To Net: NetName=SWCLK Pin=CONN1-2
+Added Pin To Net: NetName=P0.21/RESET Pin=CONN1-3
+Added Pin To Net: NetName=VDD_nRF Pin=CONN1-4
+Added Pin To Net: NetName=GND Pin=CONN1-5
+Added Member To Class: ClassName=BLE_Schematic Member=Component CONN1 Connector

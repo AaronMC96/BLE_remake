@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=RF Pin=ANT1-1
+Removed Pin From Net: NetName=GND Pin=ANT1-2
+Added Component: Designator=ANT1(Atenna_BT)
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=RF Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=ANT1-2

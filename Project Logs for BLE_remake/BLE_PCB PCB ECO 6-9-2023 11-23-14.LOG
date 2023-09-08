@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP_0201 New DesignItemId=
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAP_0201 New DesignItemId=
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CAP_0201 New DesignItemId=
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP_0201 New DesignItemId=
+Change Component DesignItemId : Designator=C6 Old DesignItemId=CAP_0201 New DesignItemId=
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP_0402 New DesignItemId=
+Change Component DesignItemId : Designator=C8 Old DesignItemId=CAP_0402 New DesignItemId=
+Change Component DesignItemId : Designator=L1 Old DesignItemId=IND_0201 New DesignItemId=
+Change Component DesignItemId : Designator=L2 Old DesignItemId=IND_0201 New DesignItemId=
+Change Component DesignItemId : Designator=X1 Old DesignItemId=XTAL_SMD2016 New DesignItemId=
+Change Component Comment : Designator=L2 Old Comment=2.2nH New Comment=3.3 nH
+Change Component Comment : Designator=C8 Old Comment=2.2µF New Comment=1.0 uF
+Change Component Comment : Designator=C7 Old Comment=2.2µF New Comment=2.2 uF
+Change Component Comment : Designator=C3 Old Comment=12pF New Comment=1.2 pF
+Change Component Comment : Designator=C4 Old Comment=12pF New Comment=100 nF
+Change Component Comment : Designator=C5 Old Comment=12pF New Comment=100 nF
+Change Component Comment : Designator=C6 Old Comment=12pF New Comment=100 pF
+Change Component Description : Designator=C3 Old Description=Capacitor, NP0, ±2% New Description=Capacitor, NP0, ±5%
+Change Component Description : Designator=C4 Old Description=Capacitor, NP0, ±2% New Description=Capacitor, NP0, ±10%
+Change Component Description : Designator=C5 Old Description=Capacitor, NP0, ±2% New Description=Capacitor, NP0, ±10%
+Change Component Description : Designator=C8 Old Description=Capacitor, X5R, ±20% New Description=Capacitor, X5R, ±5%
+Added Room: Name=BLE_Schematic

@@ -1,0 +1,2 @@
+Change Component Comment : Designator=ANT1 Old Comment= New Comment=Antenna BT 2.4 GHz
+Added Pin To Net: NetName=GND Pin=ANT1-2

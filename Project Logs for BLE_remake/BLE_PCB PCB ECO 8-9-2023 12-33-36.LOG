@@ -1,0 +1,20 @@
+Change Component Comment : Designator=R1 Old Comment=RCWE0402R220FKEA New Comment=RMCF0402FT220R
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1005X35N"; UniqueID = "\QFWZESDZ" ("\QFWZESDZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RMCF0402FT220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT1(BAT_122-3124-GR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/122-3124-GR/Eagle+Plastic+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Eagle Plastic Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "122-3124-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/122-3124-GR/Eagle+Plastic+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=VDD_nRF Pin=BT1-P
+Added Member To Class: ClassName=BLE_Schematic Member=Component BT1 Holder CR2477

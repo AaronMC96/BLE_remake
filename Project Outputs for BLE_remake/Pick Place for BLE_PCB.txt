@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\misa_\Desktop\BLE_remake\Project Outputs for BLE_remake\Pick Place for BLE_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/09/23
+Time:       15:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer       Footprint                Center-X(mm) Center-Y(mm) Rotation Description                                                                                     
+BT1        "Holder CR2477"      BottomLayer BAT_122-3124-GR          120.6000     70.8619      90       "Coin Cell Battery Holders CR2477 COIN CELL HL"                                                 
+ANT1       "Antenna BT 2.4 GHz" TopLayer    Atenna_BT                106.2500     70.7301      90       "Antenna BT 2.4 GHz
+50 Ohms impedance"                                                         
+R1         RMCF0402FT220R       TopLayer    RESC1005X35N             117.5200     74.0600      180      "Res Thick Film 0402 220 Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R"                            
+CONN1      Connector            TopLayer    1x5x2.54_Pin_Header_TH_V 120.3397     71.1990      90       ""                                                                                              
+X1         32MHz                TopLayer    BT-XTAL_2016             112.6449     69.9354      90       "XTAL SMD 2016, 32MHz, Cl=8pF, Total Tol: ±40ppm"                                               
+U1         ""                   TopLayer    BGA28C40P6X6_247X246X50  115.4000     71.4500      90       "Multi-protocol Bluetooth Low Energy, IEEE 802.15.4, ANT and 2.4GHz proprietary system-on-chip" 
+L2         2.2nH                TopLayer    INDC0603X03L_C           115.4789     68.1384      270      "High frequency chip inductor ±5%"                                                              
+L1         2.2nH                TopLayer    INDC0603X03L_C           115.4791     69.2812      270      "High frequency chip inductor ±5%"                                                              
+D1         LED                  TopLayer    LEDC1608X35N             117.7000     71.2635      270      "Red 631nm LED Indication - Discrete 2V 0603 (1608 Metric)"                                     
+C8         2.2µF                TopLayer    CAPC1005X04L             112.8000     72.5700      180      "Capacitor, X5R, ±20%"                                                                          
+C7         2.2µF                TopLayer    CAPC1005X04L             112.8200     73.7000      0        "Capacitor, X5R, ±20%"                                                                          
+C6         12pF                 TopLayer    CAPC0603X03L_C           113.2049     71.6204      0        "Capacitor, NP0, ±2%"                                                                           
+C5         12pF                 TopLayer    CAPC0603X03L_C           115.9997     73.2790      0        "Capacitor, NP0, ±2%"                                                                           
+C4         12pF                 TopLayer    CAPC0603X03L_C           114.5250     73.3400      180      "Capacitor, NP0, ±2%"                                                                           
+C3         12pF                 TopLayer    CAPC0603X03L_C           114.8399     68.3504      90       "Capacitor, NP0, ±2%"                                                                           
+C2         12pF                 TopLayer    CAPC0603X03L_C           111.1199     69.9354      270      "Capacitor, NP0, ±2%"                                                                           
+C1         12pF                 TopLayer    CAPC0603X03L_C           113.1849     68.2704      180      "Capacitor, NP0, ±2%"                                                                           

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=P0.18 Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=Led_smd_red New Footprint=LEDC1608X35N
+Change Component Comment : Designator=D1 Old Comment=Led_red New Comment=LED
+Change component parameters: Designator = "D1" ("D1"); Footprint = "Led_smd_red"; UniqueID = "\SDCQRRVI" ("\SDCQRRVI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C190KRKT/Lite-On+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Lite-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LTST-C190KRKT/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C190KRKT/Lite-On+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P0.18 Pin=D1-A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=R1-1
+Added Net: Name=NetD1_C
